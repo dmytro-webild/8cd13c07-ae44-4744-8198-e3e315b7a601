@@ -64,11 +64,11 @@ export default function LandingPage() {
       useInvertedBackground={false}
       metrics={[
         {
-          id: "m1",          value: "5★",          title: "Hodnotenie Google",          description: "Najlepšie hodnotený salón v okolí.",          imageSrc: "http://img.b2bpic.net/free-photo/woman-getting-treatment-hairdresser-shop_23-2149230934.jpg"},
+          id: "m1",          value: "5★",          title: "Hodnotenie Google",          description: "Najlepšie hodnotený salón v okolí.",          imageSrc: "http://img.b2bpic.net/free-photo/woman-getting-treatment-hairdresser-shop_23-2149230934.jpg?_wi=1"},
         {
-          id: "m2",          value: "10+",          title: "Rokov skúseností",          description: "Vášnivý tím profesionálov.",          imageSrc: "http://img.b2bpic.net/free-photo/high-angle-view-various-multi-colored-eyeshadow-powder-wooden-background_23-2147878979.jpg"},
+          id: "m2",          value: "10+",          title: "Rokov skúseností",          description: "Vášnivý tím profesionálov.",          imageSrc: "http://img.b2bpic.net/free-photo/high-angle-view-various-multi-colored-eyeshadow-powder-wooden-background_23-2147878979.jpg?_wi=1"},
         {
-          id: "m3",          value: "∞",          title: "Spokojných klientiek",          description: "Vaša krása je náš cieľ.",          imageSrc: "http://img.b2bpic.net/free-photo/spa-concept-with-woman-getting-massage-feet_23-2147821197.jpg"},
+          id: "m3",          value: "∞",          title: "Spokojných klientiek",          description: "Vaša krása je náš cieľ.",          imageSrc: "http://img.b2bpic.net/free-photo/spa-concept-with-woman-getting-massage-feet_23-2147821197.jpg?_wi=1"},
       ]}
       title="Kde sa cítite výnimočne"
       description="Naše úspechy v číslach."
@@ -83,21 +83,21 @@ export default function LandingPage() {
       features={[
         {
           title: "Strihanie vlasov",          description: "Strihanie pre deti aj dospelých. Každý účes prispôsobený vašej tvári a štýlu.",          phoneOne: {
-            imageSrc: "http://img.b2bpic.net/free-photo/woman-getting-treatment-hairdresser-shop_23-2149230934.jpg"},
+            imageSrc: "http://img.b2bpic.net/free-photo/woman-getting-treatment-hairdresser-shop_23-2149230934.jpg?_wi=2"},
           phoneTwo: {
-            imageSrc: "http://img.b2bpic.net/free-photo/woman-getting-treatment-hairdresser-shop_23-2149230934.jpg"},
+            imageSrc: "http://img.b2bpic.net/free-photo/woman-getting-treatment-hairdresser-shop_23-2149230934.jpg?_wi=3"},
         },
         {
           title: "Farbenie & melír",          description: "Plné farbenie, melír, balayage. Techniky, ktoré váš vlas chránia a skrášľujú.",          phoneOne: {
-            imageSrc: "http://img.b2bpic.net/free-photo/high-angle-view-various-multi-colored-eyeshadow-powder-wooden-background_23-2147878979.jpg"},
+            imageSrc: "http://img.b2bpic.net/free-photo/high-angle-view-various-multi-colored-eyeshadow-powder-wooden-background_23-2147878979.jpg?_wi=2"},
           phoneTwo: {
-            imageSrc: "http://img.b2bpic.net/free-photo/high-angle-view-various-multi-colored-eyeshadow-powder-wooden-background_23-2147878979.jpg"},
+            imageSrc: "http://img.b2bpic.net/free-photo/high-angle-view-various-multi-colored-eyeshadow-powder-wooden-background_23-2147878979.jpg?_wi=3"},
         },
         {
           title: "Pedikúra",          description: "Starostlivosť o nohy na najvyššej úrovni. Odíďte s pocitom absolútnej ľahkosti.",          phoneOne: {
-            imageSrc: "http://img.b2bpic.net/free-photo/spa-concept-with-woman-getting-massage-feet_23-2147821197.jpg"},
+            imageSrc: "http://img.b2bpic.net/free-photo/spa-concept-with-woman-getting-massage-feet_23-2147821197.jpg?_wi=2"},
           phoneTwo: {
-            imageSrc: "http://img.b2bpic.net/free-photo/spa-concept-with-woman-getting-massage-feet_23-2147821197.jpg"},
+            imageSrc: "http://img.b2bpic.net/free-photo/spa-concept-with-woman-getting-massage-feet_23-2147821197.jpg?_wi=3"},
         },
       ]}
       showStepNumbers={false}
