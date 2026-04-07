@@ -63,7 +63,7 @@ export default function LandingPage() {
           href: "#contact",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/view-modern-futuristic-work-space-with-furniture_23-2151797714.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/view-modern-futuristic-work-space-with-furniture_23-2151797714.jpg?_wi=1"
       mediaAnimation="slide-up"
     />
   </div>
@@ -79,21 +79,21 @@ export default function LandingPage() {
           value: "5★",
           title: "Hodnotenie Google",
           description: "Najlepšie hodnotený salón v okolí.",
-          imageSrc: "http://img.b2bpic.net/free-photo/woman-getting-treatment-hairdresser-shop_23-2149230934.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/woman-getting-treatment-hairdresser-shop_23-2149230934.jpg?_wi=1",
         },
         {
           id: "m2",
           value: "10+",
           title: "Rokov skúseností",
           description: "Vášnivý tím profesionálov.",
-          imageSrc: "http://img.b2bpic.net/free-photo/high-angle-view-various-multi-colored-eyeshadow-powder-wooden-background_23-2147878979.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/high-angle-view-various-multi-colored-eyeshadow-powder-wooden-background_23-2147878979.jpg?_wi=1",
         },
         {
           id: "m3",
           value: "∞",
           title: "Spokojných klientiek",
           description: "Vaša krása je náš cieľ.",
-          imageSrc: "http://img.b2bpic.net/free-photo/spa-concept-with-woman-getting-massage-feet_23-2147821197.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/spa-concept-with-woman-getting-massage-feet_23-2147821197.jpg?_wi=1",
         },
       ]}
       title="Kde sa cítite výnimočne"
@@ -111,36 +111,36 @@ export default function LandingPage() {
           title: "Strihanie vlasov",
           description: "Strihanie pre deti aj dospelých. Každý účes prispôsobený vašej tvári a štýlu.",
           phoneOne: {
-            imageSrc: "http://img.b2bpic.net/free-photo/woman-getting-treatment-hairdresser-shop_23-2149230934.jpg",
+            imageSrc: "http://img.b2bpic.net/free-photo/woman-getting-treatment-hairdresser-shop_23-2149230934.jpg?_wi=2",
           },
           phoneTwo: {
-            imageSrc: "http://img.b2bpic.net/free-photo/woman-getting-treatment-hairdresser-shop_23-2149230934.jpg",
+            imageSrc: "http://img.b2bpic.net/free-photo/woman-getting-treatment-hairdresser-shop_23-2149230934.jpg?_wi=3",
           },
-          imageSrc: "http://img.b2bpic.net/free-photo/view-modern-futuristic-work-space-with-furniture_23-2151797714.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/view-modern-futuristic-work-space-with-furniture_23-2151797714.jpg?_wi=2",
           imageAlt: "elegant beauty salon interior",
         },
         {
           title: "Farbenie & melír",
           description: "Plné farbenie, melír, balayage. Techniky, ktoré váš vlas chránia a skrášľujú.",
           phoneOne: {
-            imageSrc: "http://img.b2bpic.net/free-photo/high-angle-view-various-multi-colored-eyeshadow-powder-wooden-background_23-2147878979.jpg",
+            imageSrc: "http://img.b2bpic.net/free-photo/high-angle-view-various-multi-colored-eyeshadow-powder-wooden-background_23-2147878979.jpg?_wi=2",
           },
           phoneTwo: {
-            imageSrc: "http://img.b2bpic.net/free-photo/high-angle-view-various-multi-colored-eyeshadow-powder-wooden-background_23-2147878979.jpg",
+            imageSrc: "http://img.b2bpic.net/free-photo/high-angle-view-various-multi-colored-eyeshadow-powder-wooden-background_23-2147878979.jpg?_wi=3",
           },
-          imageSrc: "http://img.b2bpic.net/free-photo/woman-getting-treatment-hairdresser-shop_23-2149230934.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/woman-getting-treatment-hairdresser-shop_23-2149230934.jpg?_wi=4",
           imageAlt: "professional haircut styling",
         },
         {
           title: "Pedikúra",
           description: "Starostlivosť o nohy na najvyššej úrovni. Odíďte s pocitom absolútnej ľahkosti.",
           phoneOne: {
-            imageSrc: "http://img.b2bpic.net/free-photo/spa-concept-with-woman-getting-massage-feet_23-2147821197.jpg",
+            imageSrc: "http://img.b2bpic.net/free-photo/spa-concept-with-woman-getting-massage-feet_23-2147821197.jpg?_wi=2",
           },
           phoneTwo: {
-            imageSrc: "http://img.b2bpic.net/free-photo/spa-concept-with-woman-getting-massage-feet_23-2147821197.jpg",
+            imageSrc: "http://img.b2bpic.net/free-photo/spa-concept-with-woman-getting-massage-feet_23-2147821197.jpg?_wi=3",
           },
-          imageSrc: "http://img.b2bpic.net/free-photo/high-angle-view-various-multi-colored-eyeshadow-powder-wooden-background_23-2147878979.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/high-angle-view-various-multi-colored-eyeshadow-powder-wooden-background_23-2147878979.jpg?_wi=4",
           imageAlt: "hair coloring technique palette",
         },
       ]}
